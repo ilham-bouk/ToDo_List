@@ -1,5 +1,4 @@
 # ToDo_List
-# CRUDS
 
 ## Welcome! 👋
 
@@ -18,8 +17,8 @@
 
 ### Links
 
-- Repository URL: [Repo URL](https://github.com/ilham-bouk/CRUDS)
-- Live Site URL: [Live Site](https://ilham-bouk.github.io/CRUDS/)
+- Repository URL: [Repo URL](https://github.com/ilham-bouk/ToDo_List)
+- Live Site URL: [Live Site](https://ilham-bouk.github.io/ToDo_List/)
 
 ## My process
 
