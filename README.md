@@ -8,6 +8,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Planned Features](#planned-features)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -29,6 +30,15 @@
 - JavaScript 
 - Disktop-first workflow
 
+## Planned Features
+
+Here are some features we’re planning to add in future updates:
+- **User Authentication**: Allow users to sign up, log in, and manage profiles.
+- **Dark Mode**: Add a toggle for dark and light themes.
+- **Responsive Design**: Optimize the app for mobile and tablet devices.
+- **Performance Improvements**: Reduce load times and optimize resource usage.
+- **Add More Information**: Like the date and category.
+- **Dellete All**: Add dellete all button. 
 
 ### Useful resources
 
