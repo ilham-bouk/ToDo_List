@@ -67,3 +67,14 @@ body {
     border-radius: 10px;
     cursor: pointer;
 }
+.attribution {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 13px;
+    opacity: .7;
+}
+.attribution a {
+    color: #3cc0fb;
+    text-decoration: none;
+}
