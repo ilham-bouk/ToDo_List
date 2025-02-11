@@ -1,6 +1,8 @@
-# ToDo_List
+# ToDo List
 
 ## Welcome! 👋
+
+![Screenshot for Todo List](Screenshot.png)
 
 ## Table of contents
 
